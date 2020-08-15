@@ -38,26 +38,26 @@ const client20 = new Discord.Client();
 
 //✠▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ஜ☢❦۞❦☢ஜ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬✠//POULAZ
 
-client.login("NzM3ODMzNjI3ODc4MDMxMzcw.XyDHNg.SNDMudT8hWfAFs5xCjGXAnV4W9Q");
-client2.login("NzM3ODA2MzM1OTAyNzQ0NjE4.XyCwKw.ofBKuAKglDzeUwDqrOQFGT3LoJw");
-client3.login("NzM3ODQ1NDE1NjgwMDE2NDM3.XyDWEg.sUvaplL4yV9p5dxB639G_XQbZz0");
-client4.login("NzM3ODUwNTQ2MjUzNDYzNjA0.XyDW-A.xNPAc97vdqCx5CxNVa8LK-7cQYw");
-client5.login("NzM3ODUxNDgxODY4MjA2MDgx.XyDX0w.lrhHdAdGx3hSzCDHcHcNpVG5Q0s");
-client6.login("NzM3ODUxOTkyMDc2MTg5Nzg2.XyDYUw.11lQCEcKcSGhszzqgvQEsO2oGFg");
-client7.login("NzM3ODUyNTI3MzM2MzU3OTk4.XyDY0g.UgPPyiyKtkKl8KU6533yS_QXhi4");
-client8.login("NzM3ODUzMjUyMDQ5MzA1NjAx.XyDZfA.ewpQlmk8pcsfGYMVXq7nvYscrmE");
-client9.login("NzM3ODUzNjQxMzgxMjQ5MTY3.XyDaAw.H-pDtfui1AepZi49CXux7VWDWdc");
-client10.login("NzM4MDcxODUyODU3MDMyODQ1.XyG2WQ.qpafQTWRBOjZVcOZFdbTKIk4sFU");
-client11.login("NzM4MDkwODM2ODEzOTM4Nzk3.XyG22g.ogBYAojBAlFn1nxDp-G4XmC7s5E");
-client12.login("NzM4MDkxMzk4MjI5OTE3NzY4.XyG3XQ.96WL-m99plS0cbcq9RZ8qcEHxH0");
-client13.login("NzM4MDkzMjA1NjM1MDcyMDkw.XyG4_g.7LYcw_4P88R6GjEzQrJobL1VmQY");
-client14.login("NzM4MDkyNjAxNzYwMTUzNjM0.XyG4Zw.YFmXuebIpQpZ3yfNU0yLwCDnnoA");
-client15.login("NzM4MDk0MTYxNTYyOTU5OTQ0.XyG55Q.6NynUpt1aqUna5IabLobDcQrXxg");
-client16.login("NzM4MDk0NzU3OTQyOTE5MjIx.XyG6aA.JCsgPAnJM1VAlA7dsfv8Ip4MerE");
-client17.login("NzM4MDk1MTY4MjQyMzE5Mzky.XyG69A.21nBoXansT9QGSHIiXfzgro94Nw");
-client18.login("NzM4MDk1ODA4ODMzOTEyOTA1.XyG78w.sEK5z8vvVMT_QCChI6hjhIhwbX8");
-client19.login("NzM4MDk2NzU5Njg3MDg2MDkx.XyG8fg.cTxYXhLaTstX4GEKKfiQQT9awp4");
-client20.login("NzM4MDk3OTIwNDY0OTEyNDg3.XyG9Xw.e5KVrAGEGp6egdpqUdJVO2RkD-M");
+client.login("");
+client2.login("");
+client3.login("");
+client4.login("");
+client5.login("");
+client6.login("");
+client7.login("");
+client8.login("");
+client9.login("");
+client10.login("");
+client11.login("");
+client12.login("");
+client13.login("");
+client14.login("");
+client15.login("");
+client16.login("");
+client17.login("");
+client18.login("");
+client19.login("");
+client20.login("");
 
 client.on('message', message => {
   if (message.content === prefix+'d1') {
